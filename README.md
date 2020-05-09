@@ -8,7 +8,7 @@
 
 - ###  Yandex Market Sentiment Analysis	
 
-  Sentiment Analysis of the elctronical products reviews in Russian with data search and parsing. Demo attached.
+  Sentiment Analysis of the electronic product reviews in Russian with data search and parsing. Demo attached.
   
 ## Machine Learning Skills Developing personal practice tasks:
 
